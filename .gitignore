@@ -31,3 +31,7 @@ gradle/
 .gradle/
 dataset.json
 .idea
+
+frontend/node_modules
+frontend/build
+*/dataset.json
